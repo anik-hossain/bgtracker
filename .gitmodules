@@ -1,0 +1,3 @@
+[submodule "bgtracker-vue"]
+	path = bgtracker-vue
+	url = https://github.com/anik-hossain/bgtracker-vue.git
